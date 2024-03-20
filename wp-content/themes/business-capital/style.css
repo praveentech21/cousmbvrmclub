@@ -5485,14 +5485,14 @@ a.image-hover-zoom {
 }
 
 #slider-section h2 {
-    font-size: 6.3rem;
+    font-size: 4rem;
     font-weight: 800;
     transition: all 0.5s linear 1s;
     margin: 0 0 30px;
 }
 #slider-section h2,
 #slider-section p {
-	color:#fff;
+	/* color:#fff; */
 }
 
 #slider-section.overlay-enabled article:before {
